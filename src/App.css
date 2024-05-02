@@ -1,0 +1,27 @@
+.kg-row{
+   
+  /* background-color: beige; */
+  margin: 30px 40px;
+
+}
+/* 
+  /* background-color: aquamarine; */
+
+h1{
+  font-weight: 700;
+  margin: 20px;
+}
+
+.itemc{
+  text-align: left;
+}
+
+.kg-b{
+  width:80px;
+}
+.kg-h{
+  width:600px;
+  border :2px solid rgb(0, 0, 0);
+  border-radius: 13px;
+
+}
